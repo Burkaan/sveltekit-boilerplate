@@ -1,7 +1,9 @@
+<script>
 
+</script>
 
 <section>
-	<div class="about">
+	<div class="aboutu">
 		<h2>about us</h2>
 		<p>vgnbv jhbjhbkj hbjghgfjhfhgv hjgvjhgvhjvhvhvhv    gvjhgvjhgvhjgvhgvhgvh    hgvhgvjhgvhv</p>
 	</div>
